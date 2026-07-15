@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" role="img" aria-label="Espacio para fotografia profesional">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DCEAF1"/>
+      <stop offset="0.55" stop-color="#EEF4F7"/>
+      <stop offset="1" stop-color="#CBDDE8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="620" fill="url(#bg)"/>
+  <circle cx="470" cy="110" r="150" fill="#FFFFFF" opacity="0.55"/>
+  <circle cx="90" cy="540" r="120" fill="#153A63" opacity="0.06"/>
+  <g opacity="0.9">
+    <circle cx="300" cy="250" r="78" fill="#B7CAD9"/>
+    <path d="M150 520 c10 -95 70 -140 150 -140 s140 45 150 140 z" fill="#B7CAD9"/>
+  </g>
+  <text x="300" y="575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="700" fill="#153A63">Fotografia profesional de Manuel</text>
+</svg>
